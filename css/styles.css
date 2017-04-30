@@ -1,0 +1,30 @@
+/* Custom CSS */
+body {
+    padding-top: 60px;
+}
+
+a#headerLogoIcon img {
+    width: 500px;
+}
+
+img#banner-image{
+    width: 100%;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1#headerLogoText {
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    font-size: 70px;
+    font-weight: 1000;
+    letter-spacing: -1px;
+}
+
+/* Bootstrap modifications */
+.navbar-collapse {
+  padding: 12px;
+}
+
+.navbar {
+    background-color: #FFF;
+}
