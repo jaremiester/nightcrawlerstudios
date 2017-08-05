@@ -25,6 +25,7 @@ h1#headerLogoText {
   padding: 12px;
 }
 
-.navbar {
-    background-color: #FFF;
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
